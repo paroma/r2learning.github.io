@@ -42,7 +42,7 @@ We welcome and encourage position papers on this subject. We are also particular
 ### Submission Guidelines
 Workshop papers should be at most **4 pages of content**, including text and figures, excluding references. Authors can include an appendix of supplementary material after the references. However, reviewers will not be required to consult any appendices to make their decisions. The main 4-page paper should adequately describe the work and its contributions.
 
-Papers should be anonymized and adhere to the NIPS conference format: [https://nips.cc/Conferences/2018/PaperInformation/StyleFiles](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
+Papers should be anonymized and adhere to the NIPS conference format: [https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles)
 
 **Submission Site:** [https://cmt3.research.microsoft.com/R2L2018](https://cmt3.research.microsoft.com/R2L2018)
 
